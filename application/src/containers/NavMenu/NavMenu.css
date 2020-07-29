@@ -1,0 +1,48 @@
+.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+html {
+    font-size: 12px;
+}
+
+.inactive {
+    color: #555;
+    padding: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.inactive:hover {
+    text-decoration: none;
+    color: #ccc;
+}
+
+.active {
+    color: #7b449c;
+    padding: 20px;
+    text-decoration: none;
+    border-bottom: 3px solid #7b449c;
+    text-transform: uppercase;
+}
+
+@media (max-width: 650px) {
+    .inactive {
+        padding: 8px;
+    }
+    .active {
+        padding: 8px;
+        text-decoration: none;
+        border-bottom: none;
+    }
+}
+
+.logo {
+    height: 40px;
+}
+
+.box-shadow {
+    box-shadow: 4px 2px 2px #ccc;
+}

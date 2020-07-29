@@ -1,0 +1,41 @@
+.settings-title {
+    font-size: 18px;
+    display: block;
+    text-align: center;
+    padding: 20px 40px;
+    color: #7b449c;
+}
+
+.table {
+    width: 60%;
+    margin: auto;
+}
+
+.btn-custom {
+    background-color: #7b449c;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #8554a1;
+}
+
+.search-box {
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+}
+
+.svg-icon-search {
+    width: 1em;
+    height: 1em;
+}
+
+.svg-icon-search path, .svg-icon-search polygon, .svg-icon-search rect {
+    fill: #555;
+}
+
+.svg-icon-search circle {
+    stroke: #555;
+    stroke-width: 1;
+}

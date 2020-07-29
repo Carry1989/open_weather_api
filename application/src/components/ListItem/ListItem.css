@@ -1,0 +1,61 @@
+.location-title {
+  font-size: 14px;
+  display: block;
+  padding: 8px 0px;
+  color: #7b449c;
+}
+
+.paragraph-detail {
+  font-size: 12px;
+  color: #666;
+  display: block;
+  padding: 6px 0px;
+  margin-left: 10px;
+}
+
+.paragraph-detail span {
+  margin-left: 10px;
+  margin-top: 2px;
+}
+
+.svg-icon-temperature {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+.svg-icon-temperature path, .svg-icon-temperature polygon, .svg-icon-temperature rect {
+  fill: #7b449c;
+}
+
+.svg-icon-temperature circle {
+  stroke: #7b449c;
+  stroke-width: 1;
+}
+
+.svg-icon-humidity {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+.svg-icon-humidity path, .svg-icon-humidity polygon, .svg-icon-humidity rect {
+  fill: #7b449c;
+}
+
+.svg-icon-humidity circle {
+  stroke: #7b449c;
+  stroke-width: 1;
+}
+
+.svg-icon-status {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+.svg-icon-status path, .svg-icon-status polygon, .svg-icon-status rect {
+  fill: #7b449c;
+}
+
+.svg-icon-status circle {
+  stroke: #7b449c;
+  stroke-width: 1;
+}

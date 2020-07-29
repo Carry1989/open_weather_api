@@ -1,0 +1,86 @@
+.panel {
+    width: 100%;
+    height: 60vh;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: rgb(123, 68, 156);
+    background: linear-gradient(355deg, rgba(123, 68, 156, 1) 0%, rgba(86, 9, 121, 1) 0%, rgba(190, 63, 168, 1) 100%);
+}
+
+.location-name {
+    font-size: 14px;
+    display: block;
+    padding: 6px 0px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: #fff;
+}
+
+.p-detail {
+    font-size: 12px;
+    color: #fff;
+    display: block;
+    padding: 10px 0px;
+    margin-left: 10px;
+}
+
+.p-detail span {
+    margin-left: 10px;
+    margin-top: 2px;
+}
+
+.svg-icon-sunrise {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.svg-icon-sunrise path, .svg-icon-sunrise polygon, .svg-icon-sunrise rect {
+    fill: #fff;
+}
+
+.svg-icon-sunrise circle {
+    stroke: #fff;
+    stroke-width: 1;
+}
+
+.svg-icon-sunset {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.svg-icon-sunset path, .svg-icon-sunset polygon, .svg-icon-sunset rect {
+    fill: #fff;
+}
+
+.svg-icon-sunset circle {
+    stroke: #fff;
+    stroke-width: 1;
+}
+
+.svg-icon-wind {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.svg-icon-wind path, .svg-icon-wind polygon, .svg-icon-wind rect {
+    fill: #fff;
+}
+
+.svg-icon-wind circle {
+    stroke: #fff;
+    stroke-width: 2;
+}
+
+.svg-icon-pressure {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.svg-icon-pressure path, .svg-icon-pressure polygon, .svg-icon-pressure rect {
+    fill: #fff;
+}
+
+.svg-icon-pressure circle {
+    stroke: #fff;
+    stroke-width: 1;
+}
